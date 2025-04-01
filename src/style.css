@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'freefatfont';
+  src: url('/src/assets/fonts/FREEFATFONT-Slanted.otf') format('opentype');
+}
+
+body {
+  background-color: #8a8a2263;
+  font-family: 'FreeFatFont', Arial, sans-serif;
+}
