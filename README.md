@@ -1,5 +1,7 @@
-# Vue 3 + TypeScript + Vite
+# Estilização com Vue.js
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[screen-capture (1).webm](https://github.com/user-attachments/assets/39554deb-3050-429f-9fc5-60725a776a60)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Apenas uma ideia de design que eu tive, o site não faz nada ainda. Desenvolvido com Vue.js.
+
+Link para o site: https://felipednl.github.io/web-style-vue/
